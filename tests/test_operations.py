@@ -363,9 +363,7 @@ def test_operations_invalid_input_types(calc_method, a, b, expected_exception):
 
 def test_power_positive():
     """
-    Test the multiplication method with two positive numbers.
-
-    This test verifies that multiplying two positive numbers returns the correct product.
+    Test the power method with two positive numbers.
     """
     # Arrange
     a = 2.0
